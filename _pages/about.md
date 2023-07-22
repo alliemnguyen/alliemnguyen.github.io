@@ -7,7 +7,8 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.JPG
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
+  image_square: true
   address: >
     <p> O'Brien Hall 410</p>
     <p> Berkeley, CA 94720</p>
@@ -18,8 +19,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Environmental Engineering at the University of California, Berkeley. My research topic is wastewater-based epidemiology (WBE). My other research interests include environmental public health and sustainable urbanization. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I recently graduated from the University of Minnesota - Twin Cities with a Bachelor's degree in Environmental Engineering. Throughout my undergraduate education, I have participated in environmental engineering research projects in resource recovery from solid waste and municipal wastewater treatment using biochar. I also held leadership positions in student organizations, specifically the College of Engineering International Ambassadors (President) and the American Society of Civil Engineers (Historian).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I like going on photo walks (check out my photos [here](https://alliengma.wordpress.com/)), cooking, and baking. I've recently taken up crocheting as a new hobby as well.
