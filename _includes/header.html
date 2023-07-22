@@ -51,7 +51,7 @@
                 </a>
               </li>
 
-              <!-- cv -->
+             <!-- cv -->
              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/cv/' | relative_url }}">{{ site.cv_nav_title }}
                   {%- if page.url contains 'CV' -%}
@@ -60,7 +60,16 @@
                 </a>
               </li>
              
-              <!-- Other pages -->
+              <!-- 'more' submenu -->
+              <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
+                  {%- if page.title contains 'more' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+               
+             
+             <!-- Other pages
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
