@@ -115,7 +115,7 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 50%;
 
   .address {
     margin-bottom: 5px;
@@ -124,22 +124,22 @@ blockquote {
 
     p {
       display: inline-block;
-      margin: 0;
+      margin: 5px;
     }
   }
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 2rem;
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 
 @media (min-width: 576px) {
   .profile {
-    width: 70%;
+    width: 50%;
 
     .address {
       p {
@@ -151,7 +151,7 @@ blockquote {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
 
   a {
     color: inherit;
