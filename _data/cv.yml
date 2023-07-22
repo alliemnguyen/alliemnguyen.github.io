@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Allie Nguyen
+    # - name: Date of Birth
+    #   value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Environmental Engineering
+      institution: University of California, Berkeley, USA
+      year: 2027 (Anticipated)
       description:
         - Description 1.
         - Description 2.
@@ -21,14 +21,20 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master of Science in Environmental Engineering
+      institution: University of California, Berkeley, USA
+      year: 2023
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Bachelor of Environmental Engineering
+      institution: University of Minnesota - Twin Cities, USA
+      year: 2022
       description:
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
