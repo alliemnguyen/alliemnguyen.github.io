@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alliemnguyen.github.io/alliemnguyen/sitemap.xml
+Sitemap: https://alliemnguyen.github.io/about//sitemap.xml
