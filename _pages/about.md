@@ -9,9 +9,9 @@ profile:
   image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   image_square: true
-  address: >
-    <p> O'Brien Hall 410</p>
-    <p> Berkeley, CA 94720</p>
+ [//]: # (address: >)
+ [//]: #   (<p> O'Brien Hall 410</p>)
+ [//]: #   (<p> Berkeley, CA 94720</p>)
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
