@@ -74,18 +74,18 @@ github_username: alliemnguyen
 twitter_username: alliemnguyen
 linkedin_username: allie-minhanh-nguyen
 scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
+# semanticscholar_id: # your Semantic Scholar ID
 orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-osf_id: # your OSF ID
+# medium_username: # your Medium username
+# quora_username: # your Quora username
+# publons_id: # your ID on Publons
+# osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
-wordpress_url: https://alliengma.wordpress.com/
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
+blogger_url: # blogger url
+work_url: https://alliengma.wordpress.com/
+# keybase_username: # your keybase user name
+# wikidata_id: # your wikidata id
 stackoverflow_id: # your stackoverflow id
 # kaggle_id: # your kaggle id
 # lastfm_id: # your lastfm id
@@ -115,9 +115,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Allie Nguyen # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: a blog of what I learned, and maybe some occasional rants
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -163,19 +163,19 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
