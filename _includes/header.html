@@ -61,6 +61,10 @@
               </li>
              
               <!-- 'more' submenu -->
+              {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
+              {%- for p in sorted_pages -%}
+              {%- if p.nav and p.autogen == nil -%}
+              {%- if p.dropdown %} 
               <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
                   {%- if page.title contains 'more' -%}
