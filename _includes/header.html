@@ -5,7 +5,7 @@
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
           {% if page.permalink != '/' -%}
-          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+          <!--<a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
@@ -18,7 +18,8 @@
               {%- endif -%}
             {%- else -%}
               {{- site.title -}}
-            {%- endif -%}
+            {%- endif -%} -->
+            
           </a>
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
@@ -54,14 +55,14 @@
               {% if site.blog_nav_title %}
              
                <!-- CV -->
-              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+              <!-- <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ site.cv_nav_title }}
                   {%- if page.url contains 'cv' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %}
+              {%- endif %} -->
                 
                 <!-- Blog -->
              <!-- <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
