@@ -7,5 +7,5 @@ nav: false
 nav_order: 2
 ---
 
-**Determination of Biomethane Generation Potential in the Domestic Municipal Waste Flow of Hanoi, Vietnam**<br>
+**Determination of Biomethane Generation Potential in the Domestic Municipal Waste Flow of Hanoi, Vietnam** (UMN)<br>
 Undergraduate Research Opportunities Program (UROP) Symposium, August 2020 | [pdf](/assets/pdf/UROP_Symposium_Poster_2020.pdf)
