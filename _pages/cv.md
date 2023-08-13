@@ -11,6 +11,8 @@ nav_order: 2
     <p class="post-description">A PDF version of my CVs.</p> 
 </header>-->
 
+Please help forward my Resume and CV to anyone that might be interested. Thank you!
+
 <div class="projects row">
     <div class="cv-grid-item">
         <div class="card text-center hoverable">
