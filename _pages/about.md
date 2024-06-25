@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <h2>About me</h2>
-My name is Allie Nguyen (a.k.a Minh-Anh Nguyen). I am a Ph.D. student in Environmental Engineering at the University of California, Berkeley under the mentorship of [Professor Kara Nelson](https://ce.berkeley.edu/people/faculty/nelson). My current research project is on wastewater-based epidemiology (WBE). The project goal is to use WBE to generate a holistic picture of disease prevalence in not only areas with access to clinical testing but also geographically remote regions, thus improving pandemic preparedness in a broad-scale application. Specifically, I'm researching the different forms of 8 types of viruses and their persistence in raw wastewater. I'm also very interested in environmental public health and how to utilize engineering to elevate the population's safety and well-being.
+My name is Allie Nguyen (a.k.a Minh-Anh Nguyen). I am a Ph.D. student in Environmental Engineering at the University of California, Berkeley under the mentorship of [Professor Kara Nelson](https://nelsongroup.berkeley.edu/). My current research project is on wastewater-based epidemiology (WBE). The project goal is to use WBE to generate a holistic picture of disease prevalence in not only areas with access to clinical testing but also geographically remote regions, thus improving pandemic preparedness in a broad-scale application. Specifically, I'm researching the different forms of 8 types of viruses and their persistence in raw wastewater. I'm also very interested in environmental public health and how to utilize engineering to elevate the population's safety and well-being.
 
 <h2>Education</h2>
 
