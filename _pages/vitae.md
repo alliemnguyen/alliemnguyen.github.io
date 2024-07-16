@@ -18,7 +18,7 @@ Please help forward my Resume and CV to anyone that might be interested. Thank y
         <div class="card text-center hoverable">
             <div class="card-body" id="resume">
                 <iframe class="cv-frame" src="/assets/pdf/Resume_AllieNguyen.pdf#toolbar=0&statusbar=0&navpanes=0" title="Resume_AllieNguyen (as of 4.2024)"></iframe>
-                <h2>Resume (as of 4.2024)</h2>
+                <h2>Resume (as of 7.2024)</h2>
                 <a href="/assets/pdf/Resume_AllieNguyen.pdf" class="btn btn-sm" role="button" title="Type">Download</a>
             </div>
         </div>
@@ -27,7 +27,7 @@ Please help forward my Resume and CV to anyone that might be interested. Thank y
         <div class="card text-center hoverable">
             <div class="card-body" id="cv">
                 <iframe class="cv-frame" src="/assets/pdf/CV_AllieNguyen.pdf#toolbar=0&statusbar=0&navpanes=0" title="CV_AllieNguyen (as of 4.2024)"></iframe>
-                <h2>CV (as of 4.2024)</h2>
+                <h2>CV (as of 7.2024)</h2>
                 <a href="/assets/pdf/CV_AllieNguyen.pdf" class="btn btn-sm" role="button" title="Type">Download</a>
             </div>
         </div>
