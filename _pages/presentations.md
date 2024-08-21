@@ -6,6 +6,9 @@ title: presentations
 nav: false
 nav_order: 2
 ---
+**Pretreatment of Organic Waste and Sewage Sludge for Biogas and Methane Production Improvement in Anaerobic Digestion in Hanoi, Vietnam**<br>
+IWA World Water Congress & Exhibition, August 2024 | [pdf](/assets/pdf/IWA_WWCE_Presentation_2024.pdf)
 
-**Determination of Biomethane Generation Potential in the Domestic Municipal Waste Flow of Hanoi, Vietnam** (UMN)<br>
-Undergraduate Research Opportunities Program (UROP) Symposium, August 2021 | [pdf](/assets/pdf/UROP_Symposium_Poster_2021.pdf)
+
+**Determination of Biomethane Generation Potential in the Domestic Municipal Waste Flow of Hanoi, Vietnam**<br>
+UMN Undergraduate Research Opportunities Program (UROP) Symposium, August 2021 | [pdf](/assets/pdf/UROP_Symposium_Poster_2021.pdf)
