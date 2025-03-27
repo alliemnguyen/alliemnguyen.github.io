@@ -71,7 +71,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: alliemnguyen
-twitter_username: alliemnguyen
+# twitter_username: alliemnguyen
 linkedin_username: alliemnguyen
 scholar_userid: LlhipJ8AAAAJ
 # semanticscholar_id: # your Semantic Scholar ID
@@ -82,7 +82,8 @@ orcid_id: 0009-0003-8303-6868
 # osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
-blogger_url: https://alliemnguyen.wordpress.com/ 
+# blogger_url: 
+wordpress_url: https://alliemnguyen.wordpress.com/ 
 # work_url:
 # keybase_username: # your keybase user name
 # wikidata_id: # your wikidata id
