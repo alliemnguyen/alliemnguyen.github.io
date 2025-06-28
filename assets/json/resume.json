@@ -35,41 +35,53 @@
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Berkeley, CA, USA",
+      "url": "https://www.berkeley.edu/",
+      "area": "Environmental Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "startDate": "2022",
+      "endDate": "",
+      "score": "4.0",
       "courses": [
-        "Theory of Relativity"
+        "Environmental Physical-Chemical Processes",
+        "Environmental Biological Processes",
+        "Control of Water-related Pathogens",
+        "Infectious Disease Modeling",
+        "Epidemiology and Control of Infectious Diseases",
+        "Water Chemistry",
+        "Data Visualization for Public Health",
+        "Statistics in R"
+        ""
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
+  "volunteer": [
+    {
+      "position": "Co-director, Beyond Academia",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Logistics Co-director (May 2024 - present); Finance Co-director (Jan 2024 - May 2024)."
+    }
+  ],
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "Vietnamese",
+      "fluency": "Native Speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
-    }
+      "fluency": "Bilingual Proficiency"
+    },
+    {
+      "language": "Korean",
+      "fluency": "Beginner"
+    },
   ],
   "interests": [],
   "references": [],
