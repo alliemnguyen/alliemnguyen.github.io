@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: cv
 permalink: /vitae/
-title: resume and cv
+title: cv
 nav: true
 nav_order: 2
 cv_pdf: Resume_AllieNguyen.pdf
