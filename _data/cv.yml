@@ -1,12 +1,26 @@
-- title: General Information
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Allie Nguyen
+#     # - name: Date of Birth
+#     #   value: 14th March 1879
+#     - name: Languages
+#       value: English, Vietnamese
+
+- title: Basics
   type: map
   contents:
     - name: Full Name
       value: Allie Nguyen
-    # - name: Date of Birth
-    #   value: 14th March 1879
-    - name: Languages
-      value: English, Vietnamese
+    - name: Email
+      value: alliemnguyen@gmail.com
+    - name: Phone
+      value: (510) 255-5038
+    - name: URL
+      value: https://alliemnguyen.github.io/
+    - name: Summary
+      value: I'm a Ph.D. student in Environmental Engineering at UC Berkeley, researching wastewater-based epidemiology (WBE) and environmental microbiology. I'm passionate about environmental public health and engineering solutions to improve population safety and well-being.
 
 - title: Education
   type: time_table
