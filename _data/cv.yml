@@ -29,9 +29,9 @@
       institution: University of California, Berkeley, USA
       year: 2027 (Anticipated)
       description:
-        - Project: Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)
-        - Research Topic: Wastewater-based Epidemiology
-        - GPA: 4.0
+        - "Project: Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
+        - "Research Topic: Wastewater-based Epidemiology"
+        - "GPA: 4.0"
         - title: Coursework:
           contents:
             - Environmental Physical-Chemical Processes
@@ -45,7 +45,7 @@
     - title: Master of Science in Environmental Engineering
       institution: University of California, Berkeley, USA
       year: 2022-2023
-      description:
+      # description:
        # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -53,9 +53,9 @@
     - title: Bachelor of Environmental Engineering
       institution: University of Minnesota - Twin Cities, USA
       year: 2018-2022
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 # - title: Work
 #   type: time_table
