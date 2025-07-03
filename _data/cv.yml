@@ -57,10 +57,10 @@
         - Description 1.
         - Description 2.
 
-- title: Work
-  type: time_table
-  contents:
-    - title: 
+# - title: Work
+#   type: time_table
+#   contents:
+#     - title: 
 
 
 # - title: Research Experience
