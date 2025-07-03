@@ -27,7 +27,7 @@
   contents:
     - title: PhD in Environmental Engineering
       institution: University of California, Berkeley, USA
-      year: 2027 (Anticipated)
+      year: "2022-2027 (Anticipated)"
       description:
         - "Project: Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
         - "Research Topic: Wastewater-based Epidemiology"
@@ -44,7 +44,7 @@
             - Statistics in R
     - title: Master of Science in Environmental Engineering
       institution: University of California, Berkeley, USA
-      year: 2022-2023
+      year: "2022-2023"
       # description:
        # - title: Description 3.
         #   contents:
@@ -52,7 +52,7 @@
         #     - Sub-description 2. 
     - title: Bachelor of Environmental Engineering
       institution: University of Minnesota - Twin Cities, USA
-      year: 2018-2022
+      year: "2018-2022"
       # description:
       #   - Description 1.
       #   - Description 2.
