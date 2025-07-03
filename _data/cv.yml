@@ -45,7 +45,7 @@
     - title: Master of Science in Environmental Engineering
       institution: University of California, Berkeley, USA
       year: 2023
-      # description:
+      description: []
        # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -53,7 +53,7 @@
     - title: Bachelor of Environmental Engineering
       institution: University of Minnesota - Twin Cities, USA
       year: 2022
-      # description:
+      description: []
       #   - Description 1.
       #   - Description 2.
 
