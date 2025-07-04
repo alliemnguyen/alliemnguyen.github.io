@@ -29,19 +29,19 @@
       institution: University of California, Berkeley, USA
       year: "2027 (Anticipated)"
       description:
-        # - Project\: Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)
+        - Project "Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
         # - Research Topic\: Wastewater-based Epidemiology
         # - GPA\: 4.0
-        - title: Coursework
-          contents:
-          - Environmental Physical-Chemical Processes
-          - Environmental Biological Processes
-          - Control of Water-related Pathogens
-          - Infectious Disease Modeling
-          - Epidemiology and Control of Infectious Diseases
-          - Water Chemistry
-          - Data Visualization for Public Health
-          - Statistics in R
+        # - title: Coursework
+        #   contents:
+        #   - Environmental Physical-Chemical Processes
+        #   - Environmental Biological Processes
+        #   - Control of Water-related Pathogens
+        #   - Infectious Disease Modeling
+        #   - Epidemiology and Control of Infectious Diseases
+        #   - Water Chemistry
+        #   - Data Visualization for Public Health
+        #   - Statistics in R
     - title: Master of Science in Environmental Engineering
       institution: University of California, Berkeley, USA
       year: 2023
