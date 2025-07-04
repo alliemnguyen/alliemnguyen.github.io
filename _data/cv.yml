@@ -14,11 +14,11 @@
     - name: Name
       value: Allie Nguyen
     - name: Email
-      value: [alliemnguyen@gmail.com](mailto:alliemnguyen@gmail.com)
+      value: "<a href='mailto:alliemnguyen@gmail.com'>alliemnguyen@gmail.com</a>"
     - name: Phone
       value: (510) 255-5038
     - name: URL
-      value: [https://alliemnguyen.github.io/](https://alliemnguyen.github.io/)
+      value: "<a href='https://alliemnguyen.github.io/'>https://alliemnguyen.github.io/</a>"
     - name: Summary
       value: I am a Ph.D. student in Environmental Engineering at UC Berkeley, researching wastewater-based epidemiology (WBE) and environmental microbiology. I'm passionate about environmental public health and engineering solutions to improve population safety and well-being.
 
