@@ -14,11 +14,11 @@
     - name: Name
       value: Allie Nguyen
     - name: Email
-      value: [alliemnguyen@gmail.com](mailto:alliemnguyen@gmail.com)
+      value: alliemnguyen@gmail.com
     - name: Phone
       value: (510) 255-5038
     - name: URL
-      value: [https://alliemnguyen.github.io/](https://alliemnguyen.github.io/)
+      value: https://alliemnguyen.github.io/
     - name: Summary
       value: I am a Ph.D. student in Environmental Engineering at UC Berkeley, researching wastewater-based epidemiology (WBE) and environmental microbiology. I'm passionate about environmental public health and engineering solutions to improve population safety and well-being.
 
@@ -27,21 +27,21 @@
   contents:
     - title: PhD in Environmental Engineering
       institution: University of California, Berkeley, USA
-      year: "2027 (Anticipated)"
+      year: 2027 (Anticipated)
       description:
-        - Project "Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
-        # - Research Topic\: Wastewater-based Epidemiology
-        # - GPA\: 4.0
-        # - title: Coursework
-        #   contents:
-        #   - Environmental Physical-Chemical Processes
-        #   - Environmental Biological Processes
-        #   - Control of Water-related Pathogens
-        #   - Infectious Disease Modeling
-        #   - Epidemiology and Control of Infectious Diseases
-        #   - Water Chemistry
-        #   - Data Visualization for Public Health
-        #   - Statistics in R
+        - Project\: "Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
+        - Research Topic\: Wastewater-based Epidemiology
+        - GPA\: 4.0
+        - title: Coursework
+          contents:
+          - Environmental Physical-Chemical Processes
+          - Environmental Biological Processes
+          - Control of Water-related Pathogens
+          - Infectious Disease Modeling
+          - Epidemiology and Control of Infectious Diseases
+          - Water Chemistry
+          - Data Visualization for Public Health
+          - Statistics in R
     - title: Master of Science in Environmental Engineering
       institution: University of California, Berkeley, USA
       year: 2023
