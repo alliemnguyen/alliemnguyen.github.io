@@ -14,7 +14,7 @@
     - name: Name
       value: Allie Nguyen
     - name: Email
-      value: <a href="mailto:alliemnguyen@gmail.com">mailto:alliemnguyen@gmail.com</a>
+      value: <a href="mailto:alliemnguyen@gmail.com">alliemnguyen@gmail.com</a>
     - name: Phone
       value: (510) 255-5038
     - name: URL
@@ -29,10 +29,10 @@
       institution: University of California, Berkeley, USA
       year: 2027 (Anticipated)
       description:
-        - "**Project**: Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
-        - "Research Topic: Wastewater-based Epidemiology"
-        - "GPA: 4.0"
-        - title: Coursework
+        - "<strong>Project</strong>: Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
+        - "<strong>Research Topic</strong>: Wastewater-based Epidemiology"
+        - "<strong>GPA</strong>: 4.0"
+        - title: "Coursework:"
           contents:
           - Environmental Physical-Chemical Processes
           - Environmental Biological Processes
