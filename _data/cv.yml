@@ -25,14 +25,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Environmental Engineering
-      institution: University of California, Berkeley, USA
-      year: 2027 (Anticipated)
+    - title: <a href="https://ce.berkeley.edu/">PhD in Environmental Engineering</a>
+      institution: University of California, Berkeley, Berkeley, CA, USA
+      year: "2022-2027 (Anticipated)"
       description:
-        - "<strong>Project</strong>: Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
-        - "<strong>Research Topic</strong>: Wastewater-based Epidemiology"
+        - "<strong>Current project:</strong> Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
+        - title: "<strong>Research Topics:</strong>
+          contents:
+          - Wastewater-based Epidemiology
+          - Environmental Microbiology
+          - Wastewater Microbiology
+          - Water/Wastewater Engineering
         - "<strong>GPA</strong>: 4.0"
-        - title: "Coursework:"
+        - title: "<strong>Coursework:</strong>
           contents:
           - Environmental Physical-Chemical Processes
           - Environmental Biological Processes
@@ -42,17 +47,17 @@
           - Water Chemistry
           - Data Visualization for Public Health
           - Statistics in R
-    - title: Master of Science in Environmental Engineering
-      institution: University of California, Berkeley, USA
-      year: 2023
+    - title: <a href="https://ce.berkeley.edu/">Master of Science in Environmental Engineering</a>
+      institution: University of California, Berkeley, Berkeley, CA, USA
+      year: "2022-2023"
       description: []
        # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2. 
-    - title: Bachelor of Environmental Engineering
-      institution: University of Minnesota - Twin Cities, USA
-      year: 2022
+    - title: <a href="https://cse.umn.edu/cege">Bachelor of Environmental Engineering</a>
+      institution: University of Minnesota - Twin Cities, Minneapolis, MN, USA
+      year: "2018-2022"
       description: []
       #   - Description 1.
       #   - Description 2.
