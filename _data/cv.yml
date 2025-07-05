@@ -126,6 +126,16 @@
 #         - Description 1.
 #         - Description 2.
 
+- title: Languages
+  type: map
+  contents:
+    - name: "🇺🇸 <span class='lang-name'>English</span>"
+      value: "<span class='lang-level'>Bilingual proficiency</span>"
+    - name: "🇻🇳 <span class='lang-name'>Vietnamese</span>"
+      value: "<span class='lang-level'>Native speaker</span>"
+    - name: "🇰🇷 <span class='lang-name'>Korean</span>"
+      value: "<span class='lang-level'>Beginner–Intermediate</span>"
+
 # - title: Other Interests
 #   type: list
 #   contents:
