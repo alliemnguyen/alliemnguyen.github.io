@@ -22,9 +22,22 @@
         - "<strong>Current project:</strong> Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
         - Studying the persistence of viral nucleic acid signals of 8 human respiratory viruses in wastewater in presence of surfactants.
         - "Conducting research to advance the understanding of how sub-sewershed sampling can contribute to efforts to improve health equity, with the focus on sub-sewersheds of San Francisco."
-    # - title: Undergraduate Research Assistant
-    #   institution: University of Minnesota - Twin Cities
-    #   year: 
+    - title: Undergraduate Research Assistant
+      institution: University of Minnesota - Twin Cities
+      year: "2019-2022"
+      description:
+        - title: "<strong>Project: Biochar for nutrient removal from municipal wastewater</strong> (2021-2022)"
+          contents:
+            - Operated and prepared wastewater media for sequencing batch reactors.
+            - "Analyzed nitrate, nitrite, and ammonium using segmented flow analysis and UV-Vis spectrophotometry to characterize nutrient removal capacities of biochar."
+        - title: "<strong>Project: Hydrologic and Hydraulic Characteristics of Effective Sea Lamprey Barriers</strong> (2022)"
+          contents:
+            - Conducted literature review on the efficacy of current sea lamprey barrier technologies.
+            - Designed and performed fluid mechanics experiments with model barriers in hydraulic flumes.
+            - "Analyzed the time-averaged and root-mean-square velocities of the water flow due to barriers’ impact, lamprey detachment forces, and turbulent kinetic energy from the experiment results."
+        - title: "<strong>Project: Determination of Biomethane Generation Potential in the Domestic Municipal Waste Flow of Hanoi, Vietnam</strong> (2021)"
+          contents: 
+            - "Sampled organic municipal waste, conducted calculations based on the samples’ waste composition, and performed biochemical methane potential tests on a sample of organic matters resembling the above waste to measure its anaerobic digestion capability."
 
 
 - title: Teaching and Mentoring Experience
