@@ -115,7 +115,7 @@
 - title: Coursework
   type: nested_list
   contents:
-   - title: Environmental Engineering - Water Focus
+   - title: 💧 Environmental Engineering - Water Focus
      items:
       - Environmental Physical-Chemical Processes (FA22)
       - Environmental Biological Processes (SP23)
@@ -123,9 +123,8 @@
       - Water Chemistry (FA22)
       - Water and Wastewater Treatment (FA20)
       - Pollutant Fate and Transport (FA21)
-
       
-   - title: Epidemiology and Public Health
+   - title: 🧬 Epidemiology and Public Health
      items:
       - Infectious Disease Modeling (FA23)
       - Epidemiology and Control of Infectious Diseases (SP24)
@@ -133,7 +132,7 @@
       - Introduction to Probability and Statistics in Biology and Public Health (FA23)
       - Statistics in R (SP24)
       
-   - title: Civil and General Engineering
+   - title: 🏗️ Civil and General Engineering
      items:
       - Air Quality and Pollution Control Engineering (SP22)
       - Science and Engineering of Streams (SP22)
@@ -148,21 +147,19 @@
       - Deformable Body Mechanics (SP20)
       - Statics (FA19)
       
-   - title: Applied Environmental Science
+   - title: 🌱 Applied Environmental Science
      items:
       - Biomass Chemistry and Conversion (FA20)
       - Geomicrobiology (SP20)
       - Evolution and Ecology (SP19)
       
-   - title: Foundational Sciences (Math, Physics, Chemistry)
+   - title: 📚 Foundational Sciences (Math, Physics, Chemistry)
      items:
       - Organic Chemistry I, II (FA19, FA20)
       - Introduction to Thermodynamics, Kinetics, and Statistical Mechanics (FA20)
       - Physics I, II (FA18, SP19)
       - Calculus I, II (FA18, SP19)
       - Multivariable Calculus, Linear Algebra (FA19, SP20)
-
-
       
 - title: Languages
   type: map
