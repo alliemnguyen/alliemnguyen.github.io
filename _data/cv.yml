@@ -12,54 +12,6 @@
     - name: Summary
       value: I am a Ph.D. student in Environmental Engineering at UC Berkeley, researching wastewater-based epidemiology (WBE) and environmental microbiology. I am passionate about environmental public health and engineering solutions to improve population safety and well-being.
 
-- title: Work Experience
-  type: time_table
-  contents:
-    - title: Graduate Student Researcher
-      institution: University of California, Berkeley
-      year: "2022-Present"
-      description:
-        - "<strong>Current project:</strong> Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
-        - Studying the persistence of viral nucleic acid signals of 8 human respiratory viruses in wastewater in presence of surfactants.
-        - "Conducting research to advance the understanding of how sub-sewershed sampling can contribute to efforts to improve health equity, with the focus on sub-sewersheds of San Francisco."
-    - title: Undergraduate Research Assistant
-      institution: University of Minnesota - Twin Cities
-      year: "2019-2022"
-      description:
-        - title: "<strong>Project: Biochar for nutrient removal from municipal wastewater</strong> (2021-2022)"
-          contents:
-            - Operated and prepared wastewater media for sequencing batch reactors.
-            - "Analyzed nitrate, nitrite, and ammonium using segmented flow analysis and UV-Vis spectrophotometry to characterize nutrient removal capacities of biochar."
-        - title: "<strong>Project: Hydrologic and Hydraulic Characteristics of Effective Sea Lamprey Barriers</strong> (2022)"
-          contents:
-            - Conducted literature review on the efficacy of current sea lamprey barrier technologies.
-            - Designed and performed fluid mechanics experiments with model barriers in hydraulic flumes.
-            - "Analyzed the time-averaged and root-mean-square velocities of the water flow due to barriers’ impact, lamprey detachment forces, and turbulent kinetic energy from the experiment results."
-        - title: "<strong>Project: Determination of Biomethane Generation Potential in the Domestic Municipal Waste Flow of Hanoi, Vietnam</strong> (2021)"
-          contents: 
-            - "Sampled organic municipal waste, conducted calculations based on the samples’ waste composition, and performed biochemical methane potential tests on a sample of organic matters resembling the above waste to measure its anaerobic digestion capability."
-
-
-- title: Teaching and Mentoring Experience
-  type: time_table
-  contents:
-    - title: Graduate Student Instructor
-      institution: University of California, Berkeley
-      year: 2025
-      description:
-        - "Course: CE 211B - Environmental Biological Processes (SP25, ~40 graduate students)" 
-        - Graded weekly homework assignments and exams.
-        - Held weekly office hours to support student learning.
-        - Led exam review sessions to reinforce key concepts, provide example problems, and enhance student comprehension.
-        - Collaborated with course instructor to revise assignments and grading rubrics.
-    - title: SURF Graduate Student Mentor
-      institution: University of California, Berkeley
-      year: 2023
-      description:
-        - "Led draft proposal workshops and weekly office hours for ~50 applicants of the Summer Undergraduate Research Fellows (SURF) program."
-        - Hosted 2 summer workshops on research skills with an attendance of 50 SURF fellows.
-        - "Organized and facilitated the SURF program’s orientation, weekly small group meetings, and students’ final presentations."
-
 - title: Education
   type: time_table
   contents:
@@ -88,6 +40,89 @@
       description:
         - "<strong>GPA</strong>: 3.81/4.0"
         - Graduated with Distinction
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Graduate Student Researcher
+      institution: University of California, Berkeley
+      year: "2022-Present"
+      description:
+        - "<strong>Current project:</strong> Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
+        - Studying the persistence of viral nucleic acid signals of 8 human respiratory viruses in wastewater in presence of surfactants.
+        - "Conducting research to advance the understanding of how sub-sewershed sampling can contribute to efforts to improve health equity, with the focus on sub-sewersheds of San Francisco."
+    - title: Undergraduate Research Assistant
+      institution: University of Minnesota - Twin Cities
+      year: "2019-2022"
+      description:
+        - title: "<strong>Project: Biochar for nutrient removal from municipal wastewater</strong> (2021-2022)"
+          contents:
+            - Operated and prepared wastewater media for sequencing batch reactors.
+            - "Analyzed nitrate, nitrite, and ammonium using segmented flow analysis and UV-Vis spectrophotometry to characterize nutrient removal capacities of biochar."
+        - title: "<strong>Project: Hydrologic and Hydraulic Characteristics of Effective Sea Lamprey Barriers</strong> (2022)"
+          contents:
+            - Conducted literature review on the efficacy of current sea lamprey barrier technologies.
+            - Designed and performed fluid mechanics experiments with model barriers in hydraulic flumes.
+            - "Analyzed the time-averaged and root-mean-square velocities of the water flow due to barriers’ impact, lamprey detachment forces, and turbulent kinetic energy from the experiment results."
+        - title: "<strong>Project: Determination of Biomethane Generation Potential in the Domestic Municipal Waste Flow of Hanoi, Vietnam</strong> (2021)"
+          contents: 
+            - "Sampled organic municipal waste, conducted calculations based on the samples’ waste composition, and performed biochemical methane potential tests on a sample of organic matters resembling the above waste to measure its anaerobic digestion capability."
+    - title: CSE International Student Consultant
+      institution: "College of Science and Engineering (CSE), University of Minnesota - Twin Cities"
+      year: 2021
+      description: 
+        - Assisted 80 incoming international students during orientation and before their US arrival.
+        - Provided logistical support to the CSE Academic Advising office in facilitating activities and preparing for orientation.
+        - Developed and led a workshop that focuses on the experiences of international students’ in CSE
+    - title: Environmental Engineering and Management Intern
+      institution: <a href="https://iese.vn">Institute of Environmental Science and Engineering, Hanoi University of Civil Engineering, Hanoi, Vietnam</a>
+      year: "2019-2021"
+      description:
+        - Participated in preparation of five environmental engineering research papers, manuals, and reports.
+        - Contributed to environmental management consultancy contracts of the Institute.
+        - "Participated in site visits to wastewater treatment plants, clients’ factories, and contaminated sites. Conducted field surveys of municipal waste management."
+      
+      
+- title: Teaching and Mentoring Experience
+  type: time_table
+  contents:
+    - title: Graduate Student Instructor
+      institution: University of California, Berkeley
+      year: 2025
+      description:
+        - "Course: CE 211B - Environmental Biological Processes (SP25, ~40 graduate students)" 
+        - Graded weekly homework assignments and exams.
+        - Held weekly office hours to support student learning.
+        - Led exam review sessions to reinforce key concepts, provide example problems, and enhance student comprehension.
+        - Collaborated with course instructor to revise assignments and grading rubrics.
+    - title: SURF Graduate Student Mentor
+      institution: University of California, Berkeley
+      year: 2023
+      description:
+        - "Led draft proposal workshops and weekly office hours for ~50 applicants of the Summer Undergraduate Research Fellows (SURF) program."
+        - Hosted 2 summer workshops on research skills with an attendance of 50 SURF fellows.
+        - "Organized and facilitated the SURF program’s orientation, weekly small group meetings, and students’ final presentations."
+    - title: Undergraduate Teaching Assistant
+      institution: University of Minnesota - Twin Cities
+      year: "2021-2022"
+      description:
+        - title: "Upper-division courses:"
+          contents:
+            - "CEGE 3101 - Computer Applications I (SP22)"
+            - "CEGE 3501 - Introduction to Environmental Engineering (SP22)"
+            - Graded weekly assignments and provided feedback for 60 students.
+        - title: "Lower-division courses:"
+          contents:
+            - "CSE 1001 - First-year Experience (SP21)"
+            - Prepared, taught, and managed class logistics for 30 students.
+    - title: Peer Tutor Mentor
+      institution: SMART Learning Commons, University of Minnesota Libraries
+      year: "2019-2022"
+      description:
+        - "Assisted over 100 students’ learning inquiries in Math and Chemistry."
+        - "Observed and evaluated 12 SMART peer tutors with 1-on-1 consultation sessions and written reports."
+        - "Led a 60-minute staff meeting every semester for additional training of peer tutors."
+
 
 
 # - title: Research Experience
