@@ -1,13 +1,3 @@
- # - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Allie Nguyen
-#     # - name: Date of Birth
-#     #   value: 14th March 1879
-#     - name: Languages
-#       value: English, Vietnamese
-
 - title: Basics
   type: map
   contents:
@@ -21,6 +11,12 @@
       value: <a href="https://alliemnguyen.github.io/">https://alliemnguyen.github.io/</a>
     - name: Summary
       value: I am a Ph.D. student in Environmental Engineering at UC Berkeley, researching wastewater-based epidemiology (WBE) and environmental microbiology. I'm passionate about environmental public health and engineering solutions to improve population safety and well-being.
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: 
+
 
 - title: Education
   type: time_table
@@ -36,7 +32,7 @@
           - Environmental Microbiology
           - Wastewater Microbiology
           - Water/Wastewater Engineering
-        - "<strong>GPA</strong>: 4.0"
+        - "<strong>GPA</strong>: 4.0/4.0"
         - title: "<strong>Coursework:</strong>"
           contents:
           - Environmental Physical-Chemical Processes
@@ -58,14 +54,11 @@
     - title: <a href="https://cse.umn.edu/cege">Bachelor of Environmental Engineering</a>
       institution: University of Minnesota - Twin Cities, Minneapolis, MN, USA
       year: "2018-2022"
-      description: []
-      #   - Description 1.
-      #   - Description 2.
+      description:
+        - "<strong>GPA</strong>: 3.81/4.0"
+        - Graduated with Distinction
 
-# - title: Work
-#   type: time_table
-#   contents:
-#     - title: 
+
 
 
 # - title: Research Experience
@@ -130,6 +123,51 @@
 #       items:
 #         - Description 1.
 #         - Description 2.
+
+- title: Coursework
+  type: nested_list
+  contents:
+   - title: Environmental Engineering
+     items:
+      - Environmental Physical-Chemical Processes (FA22)
+      - Environmental Biological Processes (SP23)
+      - Control of Water-related Pathogens (SP23)
+      - Water Chemistry (FA22)
+      - Water and Wastewater Treatment (FA20)
+      - Pollutant Fate and Transport (FA21)
+      - Air Quality and Pollution Control Engineering (SP22)
+      - Science and Engineering of Streams (SP22)
+      - Environmental Water Chemistry (FA20)
+   - title: Epidemiology and Public Health
+     items:
+      - Infectious Disease Modeling (FA23)
+      - Epidemiology and Control of Infectious Diseases (SP24)
+      - Data Visualization for Public Health (FA24)
+      - Statistics in R (SP24)
+      - Introduction to Probability and Statistics in Biology and Public Health (FA23)
+   - title: Civil Engineering
+     items:
+      - Hydrologic Design (FA21)
+      - Civil Engineering Materials (FA21)
+      - Engineering Ethics and Professional Practice (SP21)
+      - Uncertainty and Decision Analysis (SP21)
+      - Soil Mechanics I (SP21)
+      - Fluid Mechanics (SP21)
+      - Project Management and Engineering Economics (SP21)
+      - Deformable Body Mechanics (SP20)
+      - Computer Applications I (SP20)
+      - Statics (FA19)
+   - title: Natural Sciences (Physics, Chemistry, Math, and Biology)
+     items:
+      - Organic Chemistry I, II (FA19, FA20)
+      - Physics I, II (FA18, SP19)
+      - Calculus I, II (FA18, SP19)
+      - Multivariable Calculus, Linear Algebra (FA19, SP20)
+      - Biomass Chemistry and Conversion (FA20)
+      - Introduction to Thermodynamics, Kinetics, and Statistical Mechanics (FA20)
+      - Evolution and Ecology (SP19)
+      - Geomicrobiology (SP20)
+   
 
 - title: Languages
   type: map
