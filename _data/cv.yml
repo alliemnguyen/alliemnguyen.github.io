@@ -15,8 +15,37 @@
 - title: Work Experience
   type: time_table
   contents:
-    - title: 
+    - title: Graduate Student Researcher
+      institution: University of California, Berkeley
+      year: "2022-Present"
+      description:
+        - "<strong>Current project:</strong> Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
+        - Studying the persistence of viral nucleic acid signals of 8 human respiratory viruses in wastewater in presence of surfactants.
+        - Conducting research to advance the understanding of how sub-sewershed sampling can contribute to efforts to improve health equity, with the focus on sub-sewersheds of San Francisco.
+    # - title: Undergraduate Research Assistant
+    #   institution: University of Minnesota - Twin Cities
+    #   year: 
 
+
+- title: Teaching and Mentoring Experience
+  type: time_table
+  contents:
+    - title: Graduate Student Instructor
+      institution: University of California, Berkeley
+      year: 2025
+      description:
+        - "Course: CE 211B - Environmental Biological Processes (SP25, ~40 graduate students)" 
+        - Graded weekly homework assignments and exams.
+        - Held weekly office hours to support student learning.
+        - Led exam review sessions to reinforce key concepts, provide example problems, and enhance student comprehension.
+        - Collaborated with course instructor to revise assignments and grading rubrics.
+    - title: SURF Graduate Student Mentor
+      institution: University of California, Berkeley
+      year: 2023
+      description:
+        - Led draft proposal workshops and weekly office hours and for ~50 applicants of the Summer Undergraduate Research Fellows (SURF) program.
+        - Hosted 2 summer workshops on research skills with an attendance of 50 SURF fellows.
+        - Organized and facilitated the SURF program’s orientation, weekly small group meetings, and students’ final presentations.
 
 - title: Education
   type: time_table
@@ -25,7 +54,6 @@
       institution: University of California, Berkeley, Berkeley, CA, USA
       year: "2022-Present"
       description:
-        - "<strong>Current project:</strong> Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
         - title: "<strong>Research Topics:</strong>"
           contents:
           - Wastewater-based Epidemiology
