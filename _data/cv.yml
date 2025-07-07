@@ -10,7 +10,7 @@
     - name: URL
       value: <a href="https://alliemnguyen.github.io/">https://alliemnguyen.github.io/</a>
     - name: Summary
-      value: I am a Ph.D. student in Environmental Engineering at UC Berkeley, researching wastewater-based epidemiology (WBE) and environmental microbiology. I'm passionate about environmental public health and engineering solutions to improve population safety and well-being.
+      value: I am a Ph.D. student in Environmental Engineering at UC Berkeley, researching wastewater-based epidemiology (WBE) and environmental microbiology. I am passionate about environmental public health and engineering solutions to improve population safety and well-being.
 
 - title: Work Experience
   type: time_table
@@ -21,7 +21,7 @@
       description:
         - "<strong>Current project:</strong> Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
         - Studying the persistence of viral nucleic acid signals of 8 human respiratory viruses in wastewater in presence of surfactants.
-        - Conducting research to advance the understanding of how sub-sewershed sampling can contribute to efforts to improve health equity, with the focus on sub-sewersheds of San Francisco.
+        - "Conducting research to advance the understanding of how sub-sewershed sampling can contribute to efforts to improve health equity, with the focus on sub-sewersheds of San Francisco."
     # - title: Undergraduate Research Assistant
     #   institution: University of Minnesota - Twin Cities
     #   year: 
@@ -43,9 +43,9 @@
       institution: University of California, Berkeley
       year: 2023
       description:
-        - Led draft proposal workshops and weekly office hours and for ~50 applicants of the Summer Undergraduate Research Fellows (SURF) program.
+        - "Led draft proposal workshops and weekly office hours for ~50 applicants of the Summer Undergraduate Research Fellows (SURF) program."
         - Hosted 2 summer workshops on research skills with an attendance of 50 SURF fellows.
-        - Organized and facilitated the SURF program’s orientation, weekly small group meetings, and students’ final presentations.
+        - "Organized and facilitated the SURF program’s orientation, weekly small group meetings, and students’ final presentations."
 
 - title: Education
   type: time_table
