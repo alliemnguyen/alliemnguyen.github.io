@@ -30,23 +30,13 @@
           contents:
           - Wastewater-based Epidemiology
           - Environmental Microbiology
-          - Wastewater Microbiology
           - Water/Wastewater Engineering
         - "<strong>GPA</strong>: 4.0/4.0"
-        - title: "<strong>Coursework:</strong>"
-          contents:
-          - Environmental Physical-Chemical Processes
-          - Environmental Biological Processes
-          - Control of Water-related Pathogens
-          - Infectious Disease Modeling
-          - Epidemiology and Control of Infectious Diseases
-          - Water Chemistry
-          - Data Visualization for Public Health
-          - Statistics in R
     - title: <a href="https://ce.berkeley.edu/">Master of Science in Environmental Engineering</a>
       institution: University of California, Berkeley, Berkeley, CA, USA
       year: "2022-2023"
-      description: []
+      description:
+        - "<strong>GPA</strong>: 4.0/4.0"
        # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -57,8 +47,6 @@
       description:
         - "<strong>GPA</strong>: 3.81/4.0"
         - Graduated with Distinction
-
-
 
 
 # - title: Research Experience
@@ -127,7 +115,7 @@
 - title: Coursework
   type: nested_list
   contents:
-   - title: Environmental Engineering
+   - title: Environmental Engineering - Water Focus
      items:
       - Environmental Physical-Chemical Processes (FA22)
       - Environmental Biological Processes (SP23)
@@ -135,40 +123,47 @@
       - Water Chemistry (FA22)
       - Water and Wastewater Treatment (FA20)
       - Pollutant Fate and Transport (FA21)
-      - Air Quality and Pollution Control Engineering (SP22)
-      - Science and Engineering of Streams (SP22)
-      - Environmental Water Chemistry (FA20)
+
+      
    - title: Epidemiology and Public Health
      items:
       - Infectious Disease Modeling (FA23)
       - Epidemiology and Control of Infectious Diseases (SP24)
       - Data Visualization for Public Health (FA24)
-      - Statistics in R (SP24)
       - Introduction to Probability and Statistics in Biology and Public Health (FA23)
-   - title: Civil Engineering
+      - Statistics in R (SP24)
+      
+   - title: Civil and General Engineering
      items:
+      - Air Quality and Pollution Control Engineering (SP22)
+      - Science and Engineering of Streams (SP22)
       - Hydrologic Design (FA21)
       - Civil Engineering Materials (FA21)
-      - Engineering Ethics and Professional Practice (SP21)
-      - Uncertainty and Decision Analysis (SP21)
       - Soil Mechanics I (SP21)
       - Fluid Mechanics (SP21)
       - Project Management and Engineering Economics (SP21)
-      - Deformable Body Mechanics (SP20)
+      - Uncertainty and Decision Analysis (SP21)
+      - Engineering Ethics and Professional Practice (SP21)      
       - Computer Applications I (SP20)
+      - Deformable Body Mechanics (SP20)
       - Statics (FA19)
-   - title: Natural Sciences (Physics, Chemistry, Math, and Biology)
+      
+   - title: Applied Environmental Science
+     items:
+      - Biomass Chemistry and Conversion (FA20)
+      - Geomicrobiology (SP20)
+      - Evolution and Ecology (SP19)
+      
+   - title: Foundational Sciences (Math, Physics, Chemistry)
      items:
       - Organic Chemistry I, II (FA19, FA20)
+      - Introduction to Thermodynamics, Kinetics, and Statistical Mechanics (FA20)
       - Physics I, II (FA18, SP19)
       - Calculus I, II (FA18, SP19)
       - Multivariable Calculus, Linear Algebra (FA19, SP20)
-      - Biomass Chemistry and Conversion (FA20)
-      - Introduction to Thermodynamics, Kinetics, and Statistical Mechanics (FA20)
-      - Evolution and Ecology (SP19)
-      - Geomicrobiology (SP20)
-   
 
+
+      
 - title: Languages
   type: map
   contents:
