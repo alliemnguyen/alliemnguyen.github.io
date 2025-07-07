@@ -89,16 +89,23 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: The Trussell Fellowship in Environmental Engineering
+      institution: University of California, Berkeley
+      year: "2022-2023"
+      description: 
+        - The Trussell Fellowship in Environmental Engineering was established in 1991 with a gift from Amos D. Trussel. Fellowships are awarded to graduate students in environmental engineering in the Department of Civil and Environmental Engineering who are outstanding candidates for a graduate degree.
+    - title: "College of Science and Engineering Dean's List"
+      institution: University of Minnesota - Twin Cities
+      year: "2018-2022"
+      description: 
+        - Honor for students who complete at least 12 credits of coursework earning traditional grades with a semester GPA of at least 3.666.
+    - title: James and Sharon Weinel Chi Epsilon Scholarship
+      institution: University of Minnesota - Twin Cities
+      year: 2021
+      description: To be awarded to senior undergraduate members of Chi Epsilon, a civil engineering honor society which recognizes students with high academic ability.  
 
 # - title: Academic Interests
 #   type: nested_list
