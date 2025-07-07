@@ -106,7 +106,26 @@
       institution: University of Minnesota - Twin Cities
       year: 2021
       description: To be awarded to senior undergraduate members of Chi Epsilon, a civil engineering honor society which recognizes students with high academic ability.  
-
+    - title: International Student and Scholar Services Culture Corps Program Scholarship
+      institution: University of Minnesota - Twin Cities
+      year: 2021
+      description:
+        - Culture Corps is a program focused on international students developing projects and initiatives that bring global perspectives to the University of Minnesota campus.
+    - title: Undergraduate Research Opportunities Program Scholarship
+      institution: University of Minnesota - Twin Cities
+      year: 2021
+      description:
+        - The Undergraduate Research Opportunities Program (UROP) provides University of Minnesota undergraduates from every college, major, and discipline, the opportunity to partner with a faculty member on research or creative projects.
+    - title: Sommerfeld Undergraduate Scholarship
+      institution: University of Minnesota - Twin Cities
+      year: 2020
+      description: 
+        - To be awarded to undergraduates studying civil, environmental, or geo- engineering.
+    - title: Global Excellence Scholarship
+      institution: University of Minnesota - Twin Cities
+      year: "2018-2022"
+      description:
+       - To be awarded to incoming international students who are among the best in their class and show a record of very strong academic preparation. Awards are competitive and based on academic merit.
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
