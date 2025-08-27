@@ -4,7 +4,7 @@
     - name: Name
       value: Allie Nguyen
     - name: Email
-      value: <a href="mailto:alliemnguyen@gmail.com">alliemnguyen@gmail.com</a>
+      value: <a href="mailto:allienguyen@berkeley.edu">allienguyen@berkeley.edu</a>
     - name: Phone
       value: (510) 255-5038
     - name: URL
@@ -68,7 +68,7 @@
           contents: 
             - "Sampled organic municipal waste, conducted calculations based on the samples’ waste composition, and performed biochemical methane potential tests on a sample of organic matters resembling the above waste to measure its anaerobic digestion capability."
     - title: CSE International Student Consultant
-      institution: "College of Science and Engineering (CSE), University of Minnesota - Twin Cities"
+      institution: "<a href='https://cse.umn.edu/'>College of Science and Engineering (CSE), University of Minnesota - Twin Cities</a>"
       year: 2021
       description: 
         - Assisted 80 incoming international students during orientation and before their US arrival.
