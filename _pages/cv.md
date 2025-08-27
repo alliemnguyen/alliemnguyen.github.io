@@ -1,13 +1,16 @@
 ---
+
 layout: cv
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: Resume_AllieNguyen.pdf
+cv_pdf: CV_AllieNguyen.pdf
+resume_pdf: Resume_AllieNguyen.pdf
 description: Download .pdf on the right.
-toc:
-  sidebar: left
+# toc:
+#  sidebar: left
+
 ---
 
 <!--<header class="post-header">
