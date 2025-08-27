@@ -168,8 +168,38 @@
       year: "2022-Present"
       description:
         - "<strong>Co-president</strong> (2024-Present)"
-        - "<strong>Career and Professional Development Committee Head</strong> (2023-2024)"
+        - "<strong>Career and Professional Development Committee Head</strong> (2023-2024): Organized the annual Career Panel, Speaker Series, and other professional development events for women-identifying engineering graduate students at UC Berkeley.” 
         - "<strong>General member</strong> (2022-2023)"
+    - title: <a href="http://beyondacademia.org/">Beyond Academia, UC Berkeley</a>
+	    year: “2023-President”
+	    description:
+      	- title: “<strong>Logistics Co-director</strong> (2024-Present)”
+      	  contents:
+      		- “Oversee logistics for all events, including the Beyond Academia conference with 650+ attendees from over 20 countries.”
+      		- Serve as the main contact for external partners, including UC Berkeley Graduate Division, Graduate Professional Development, and Berkeley Career Engagement.
+      		- “Lead meetings with members and co-directors, setting event logistics frameworks.”
+      	- title: “<strong>Finance Co-director</strong> (2024)”
+      	  contents:
+      		- “Managed a $70,000+ budget for Beyond Academia, a non-profit, student-led organization.”
+      		- “Co-directed and managed a team of 10+ volunteers.”
+      		- “Organized, recruited guest PhD speakers, and moderated panels for the annual Beyond Academia conference (1,300+ attendees.”
+   - title: <a href="https://www.asceumn.com/">American Society of Civil Engineers, University of Minnesota</a>
+     year: “2021-2022”
+     description: Historian
+  - title: <a href="https://sites.google.com/umn.edu/umncseia/about-us/">CSE International Ambassadors, University of Minnesota</a>
+  	year: “2019-2022”
+  	description:
+    	- "<strong>President</strong> (2021-2022)”
+    	- "<strong>Vice President</strong> (2020-2021)”
+    	- "<strong>Secretary</strong> (2019-2020)”
+  - title: <a href="https://cse.umn.edu/cege/student-groups/“>Chi Epsilon Honors Society, University of Minnesota</a>
+  	year: “2021-2022”
+  	description: Vice President
+  - title: <a href="https://www.linkedin.com/company/design-u/“>Design U, University of Minnesota</a>
+  	year: 2021
+  	description: Research and Strategy Team Member
+  - title: Welcome Week Leader, University of Minnesota
+  	year: 2020
         
 
 - title: Coursework
