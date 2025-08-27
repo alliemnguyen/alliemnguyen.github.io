@@ -45,14 +45,14 @@
   type: time_table
   contents:
     - title: Graduate Student Researcher
-      institution: University of California, Berkeley
+      institution: <a href="https://nelsongroup.berkeley.edu/">University of California, Berkeley</a>
       year: "2022-Present"
       description:
         - "<strong>Current project:</strong> Pandemic Readiness and Equity through Virus Epidemiology of Wastewater (PREViEW)"
         - Studying the persistence of viral nucleic acid signals of 8 human respiratory viruses in wastewater in presence of surfactants.
         - "Conducting research to advance the understanding of how sub-sewershed sampling can contribute to efforts to improve health equity, with the focus on sub-sewersheds of San Francisco."
     - title: Undergraduate Research Assistant
-      institution: University of Minnesota - Twin Cities
+      institution: <a href="https://cse.umn.edu/cege">University of Minnesota - Twin Cities</a>
       year: "2019-2022"
       description:
         - title: "<strong>Project: Biochar for nutrient removal from municipal wastewater</strong> (2021-2022)"
