@@ -21,9 +21,9 @@ layout: default
     <div class="cv">
       {% for entry in site.data.cv %}
         <a class="anchor" id="{{ entry.title }}"></a>
-        <div class="card mt-3 p-3">
-          <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
-          <div>
+        <details class="card mt-3 p-3">
+          <summary><h3 class="card-title font-weight-medium" style="display:inline">{{ entry.title }}</h3></summary>
+          <div style="margin-top:1em;">
           {% if entry.type == "list" %}
             {% include cv/list.html %}
           {% elsif entry.type == "map" %}
@@ -38,9 +38,9 @@ layout: default
             {{ entry.contents }}
           {% endif %}
           </div>
-        </div>
+        </details>
       {% endfor %}
-      </div>
+    </div>
   </article>
 
 </div>
@@ -116,3 +116,4 @@ layout: default
 
 </div>
 {% endunless %}
+
