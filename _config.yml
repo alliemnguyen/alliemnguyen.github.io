@@ -269,7 +269,7 @@ scholar:
   last_name: [Nguyen]
   first_name: [Allie, A.]
 
-  style: acs
+  style: apa
   locale: en
 
   source: /_bibliography/
