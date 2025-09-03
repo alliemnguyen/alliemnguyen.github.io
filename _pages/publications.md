@@ -11,6 +11,4 @@ nav_order: 3
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-Coming soon!
-
 </div>
