@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic_new.JPG
+  image: headshot-2025-cropped.jpg
   image_circular: false # crops the image to make it circular
   image_square: true
 
@@ -20,7 +20,7 @@ Hi! I am a Ph.D. candidate in Environmental Engineering at the University of Cal
 
 I am currently involved in multiple projects. One project focuses on wastewater-based epidemiology, specifically investigating the persistence of viral nucleic acid signals in wastewater and how surfactants may affect their stability. Another project explores how sub-sewershed-level sampling can enhance efforts to improve health equity in wastewater-based surveillance. In an upcoming project, I will study the impact of blending purified direct potable reuse water with conventional drinking water directly within distribution systems, with a focus on implications for drinking water quality and safety.
 
-In my free time, I enjoy photography (check out my photos [here](https://alliemnguyen.wordpress.com/)), dancing, and listening to music. I'm also constantly trying out new hobbies, such as crocheting, sewing, cooking, and baking :)
+In my free time, I enjoy photography (check out my photos [here](https://alliemnguyen.wordpress.com/)), dancing, and exploring the San Francisco Bay Area :)
 
 <h2>Education</h2>
 
