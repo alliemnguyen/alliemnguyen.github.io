@@ -204,6 +204,24 @@
     - title: Welcome Week Leader, University of Minnesota
       year: "2020"
         
+- title: Professional & Campuswide Service
+  type: nested_list
+  contents:
+    - title: Nelson Research Group - Lab Manager & Lab Safety Coordinator
+      year: "2024-Present"
+    - title: Core member, CEEJ Faculty Search Student Committee
+      year: 2025
+    - title: PhD student member, Berkeley ENV Seminar Series
+      year: 2024
+
+- title: Professional Affiliations
+  type: nested_list
+  contents:
+  - Student Member, CWEA (2026-Present)
+  - Student Member, AEESP (2025-Present)
+  - Student Member, AWWA (2025-Present)
+  - Member, GWE (2023-Present)
+  - Student Member, ASCE (2021-Present)
 
 - title: Coursework
   type: nested_list
