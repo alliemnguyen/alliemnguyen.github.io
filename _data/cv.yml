@@ -205,10 +205,12 @@
       year: "2020"
         
 - title: Professional & Campuswide Service
-  type: nested_list
+  type: time_table
   contents:
     - title: Nelson Research Group - Lab Manager & Lab Safety Coordinator
       year: "2024-Present"
+    - title: Core student member, ENV Graduate Admission Committee
+      year: 2026
     - title: Core member, CEEJ Faculty Search Student Committee
       year: 2025
     - title: PhD student member, Berkeley ENV Seminar Series
