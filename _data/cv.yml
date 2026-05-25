@@ -215,7 +215,8 @@
       year: 2024
 
 - title: Professional Affiliations
-  items:
+  type: list
+  contents:
   - Student Member, CWEA (2026-Present)
   - Student Member, AEESP (2025-Present)
   - Student Member, AWWA (2025-Present)
