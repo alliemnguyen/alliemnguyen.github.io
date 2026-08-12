@@ -7,13 +7,13 @@ nav: true
 nav_order: 4
 ---
 **Persistence of Viral Nucleic Acids in Wastewater in Presence of Surfactants**<br>
-West Coast Wastewater Surveillance for Public Health Conference, July 2026 | [pdf](/assets/pdf/Poster_2026_CDPH.pdf)
+West Coast Wastewater Surveillance for Public Health Conference, _**July 2026**_ | [pdf](/assets/pdf/Poster_2026_CDPH.pdf)
 
 **Persistence of Viral Nucleic Acids in Wastewater in Presence of Surfactants**<br>
-Microbiology of the Built Environment, Gordon Research Conference, June 2025 | [pdf](/assets/pdf/Poster_2025_GRC.pdf)
+Microbiology of the Built Environment, Gordon Research Conference, _**June 2025**_ | [pdf](/assets/pdf/Poster_2025_GRC.pdf)
 
 **Pretreatment of Organic Waste and Sewage Sludge for Biogas and Methane Production Improvement in Anaerobic Digestion in Hanoi, Vietnam**<br>
-IWA World Water Congress & Exhibition, August 2024 | [pdf](/assets/pdf/Presentation_2024_IWA_WWCE.pdf)
+IWA World Water Congress & Exhibition, _**August 2024**_ | [pdf](/assets/pdf/Presentation_2024_IWA_WWCE.pdf)
 
 **Determination of Biomethane Generation Potential in the Domestic Municipal Waste Flow of Hanoi, Vietnam**<br>
-UMN Undergraduate Research Opportunities Program (UROP) Symposium, August 2021 | [pdf](/assets/pdf/Poster_2021_UROP_Symposium.pdf)
+UMN Undergraduate Research Opportunities Program (UROP) Symposium, _**August 2021**_ | [pdf](/assets/pdf/Poster_2021_UROP_Symposium.pdf)
