@@ -1,19 +1,13 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
 @import
-  // Make publication year headings high contrast
-.publications h2.bibliography,
-.publications h2.year {
-  color: var(--global-text-color);
-  font-weight: 700;
-  border-top-color: var(--global-divider-color); // keep the rule itself subtle
-},
   "variables",
   "themes",
   "layout",
@@ -21,3 +15,11 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv"
 ;
+
+// Make publication year headings high contrast
+.publications h2.bibliography,
+.publications h2.year {
+  color: var(--global-text-color);
+  font-weight: 700;
+  border-top-color: var(--global-divider-color); // keep the rule itself subtle
+}
