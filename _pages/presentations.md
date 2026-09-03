@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 **Tracking Viruses in Wastewater for Public Health: How Sewage Helps Us Catch Outbreaks Early**<br>
-[Popping the Science Bubble Seminar](https://poppingthesciencebubble.wordpress.com/), [Berkeley Public Library](https://www.berkeleypubliclibrary.org/events/ptsb), _**August 2026**_ | [pdf](/assets/pdf/Presentation_2026_PoppingtheScienceBubble.pdf)
+[Popping the Science Bubble Seminar](https://poppingthesciencebubble.wordpress.com/), [Berkeley Public Library](https://www.berkeleypubliclibrary.org/events/ptsb), _**August 2026**_ | [pdf](/assets/pdf/Presentation_2026_PoppingtheScienceBubble.pdf) | [Youtube](https://www.youtube.com/watch?v=mRaJm23sUu8)
 
 **Persistence of Viral Nucleic Acids in Wastewater in Presence of Surfactants**<br>
 [West Coast Wastewater Surveillance for Public Health Conference](https://www.cawastewatersurveillance.org/2026-west-coast-conference), _**July 2026**_ | [pdf](/assets/pdf/Poster_2026_CDPH.pdf)
