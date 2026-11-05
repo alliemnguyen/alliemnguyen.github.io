@@ -6,17 +6,22 @@ title: posters-presentations
 nav: true
 nav_order: 4
 ---
+
+## presentations
+
 **Tracking Viruses in Wastewater for Public Health: How Sewage Helps Us Catch Outbreaks Early**<br>
 [Popping the Science Bubble Seminar](https://poppingthesciencebubble.wordpress.com/), [Berkeley Public Library](https://www.berkeleypubliclibrary.org/events/ptsb), _**August 2026**_ | [pdf](/assets/pdf/Presentation_2026_PoppingtheScienceBubble.pdf) | [Youtube](https://www.youtube.com/watch?v=mRaJm23sUu8)
+
+**Pretreatment of Organic Waste and Sewage Sludge for Biogas and Methane Production Improvement in Anaerobic Digestion in Hanoi, Vietnam**<br>
+[IWA World Water Congress & Exhibition](https://www.iwa-network.org/events/world-water-congress-exhibition-2024), _**August 2024**_ | [pdf](/assets/pdf/Presentation_2024_IWA_WWCE.pdf)
+
+## posters
 
 **Persistence of Viral Nucleic Acids in Wastewater in Presence of Surfactants**<br>
 [West Coast Wastewater Surveillance for Public Health Conference](https://www.cawastewatersurveillance.org/2026-west-coast-conference), _**July 2026**_ | [pdf](/assets/pdf/Poster_2026_CDPH.pdf)
 
 **Persistence of Viral Nucleic Acids in Wastewater in Presence of Surfactants**<br>
 [Microbiology of the Built Environment, Gordon Research Conference](https://www.grc.org/microbiology-of-the-built-environment-conference/2025/), _**June 2025**_ | [pdf](/assets/pdf/Poster_2025_GRC.pdf)
-
-**Pretreatment of Organic Waste and Sewage Sludge for Biogas and Methane Production Improvement in Anaerobic Digestion in Hanoi, Vietnam**<br>
-[IWA World Water Congress & Exhibition](https://www.iwa-network.org/events/world-water-congress-exhibition-2024), _**August 2024**_ | [pdf](/assets/pdf/Presentation_2024_IWA_WWCE.pdf)
 
 **Determination of Biomethane Generation Potential in the Domestic Municipal Waste Flow of Hanoi, Vietnam**<br>
 [UMN Undergraduate Research Opportunities Program (UROP) Symposium](https://conservancy.umn.edu/items/56e24611-c805-4397-99f2-bab7ec1581e5), _**August 2021**_ | [pdf](/assets/pdf/Poster_2021_UROP_Symposium.pdf)
