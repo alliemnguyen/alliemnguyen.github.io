@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 <h2>About me</h2>
 Hi! I am a Ph.D. candidate in Environmental Engineering at the University of California, Berkeley under the mentorship of [Professor Kara Nelson](https://nelsongroup.berkeley.edu/). 
 
-My research lies at the intersection of environmental water microbiology and public health. My research interest is wastewater surveillance, direct potable reuse, and microbial water quality. 
+My research lies at the intersection of environmental water microbiology and public health. Specifically, I am interested in wastewater surveillance, direct potable reuse, and microbial water quality. 
 
 I am currently involved in three projects for my PhD dissertation. One project focuses on wastewater-based epidemiology, specifically investigating the persistence of viral nucleic acid signals in wastewater and how surfactants may affect their stability. Another project explores how sub-sewershed-level sampling can enhance efforts to improve health equity in wastewater-based surveillance. In my third project, I study the impact of blending purified direct potable reuse water with conventional drinking water directly within distribution systems, with a focus on implications for drinking water quality and safety.
 
