@@ -94,6 +94,15 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              {%- if site.search_enabled %}
+
+              <!-- Search -->
+              <li class="nav-item">
+                <button id="search-toggle" title="Search" onclick="openSearchModal()">
+                  <span class="nav-link"><span class="search-shortcut">ctrl k</span> <i class="fas fa-search"></i></span>
+                </button>
+              </li>
+              {%- endif %}
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

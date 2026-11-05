@@ -299,6 +299,38 @@ blockquote {
   }
 }
 
+// Search button and search box
+
+#search-toggle {
+  padding: 0;
+  border: 0;
+  background-color: inherit;
+  color: var(--global-text-color);
+  cursor: pointer;
+
+  .nav-link {
+    white-space: nowrap;
+  }
+
+  &:hover .nav-link {
+    color: var(--global-hover-color);
+  }
+}
+
+ninja-keys {
+  --ninja-accent-color: var(--global-theme-color);
+  --ninja-text-color: var(--global-text-color);
+  --ninja-modal-background: var(--global-bg-color);
+  --ninja-secondary-background-color: var(--global-divider-color);
+  --ninja-secondary-text-color: var(--global-text-color-light);
+  --ninja-selected-background: var(--global-divider-color);
+  --ninja-group-text-color: var(--global-text-color-light);
+  --ninja-footer-background: var(--global-bg-color);
+  --ninja-placeholder-color: var(--global-text-color-light);
+  --ninja-separate-border: 1px solid var(--global-divider-color);
+  --ninja-z-index: 1100;
+}
+
 // Social (bottom)
 
 .social {

@@ -1,0 +1,7 @@
+{%- if site.search_enabled %}
+    <!-- Search (ctrl+k / cmd+k) -->
+    <script type="module" src="https://cdn.jsdelivr.net/npm/ninja-keys@1.2.2/+esm"></script>
+    <ninja-keys hideBreadcrumbs noAutoLoadMdIcons placeholder="Type to start searching"></ninja-keys>
+    <script src="{{ '/assets/js/search-setup.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/search-data.js' | relative_url }}"></script>
+{%- endif %}
