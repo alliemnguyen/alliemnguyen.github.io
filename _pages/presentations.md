@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 ## guest lectures
-**Water Disinfection**
+**Water Disinfection**<br>
 CE 111 (Intro to Environmental Engineering), UC Berkeley, _**November 2026**_
 
 ## presentations
