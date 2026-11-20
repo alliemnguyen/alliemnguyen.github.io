@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+## guest lectures
+**Water Disinfection**
+CE 111 (Intro to Environmental Engineering), UC Berkeley, _**November 2026**_
+
 ## presentations
 
 **Tracking Viruses in Wastewater for Public Health: How Sewage Helps Us Catch Outbreaks Early**<br>
